@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "368017908513",
+    "project_id": "clima-interativo-d91af",
+    "storage_bucket": "clima-interativo-d91af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368017908513:android:3ea1fe84dda54876fc1460",
+        "android_client_info": {
+          "package_name": "com.climainterativo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368017908513-7mtnskag2k3cep3vq62u7v3123telk54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.climainterativo.app",
+            "certificate_hash": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeef"
+          }
+        },
+        {
+          "client_id": "368017908513-cu9mkbpq1ntploprmm4g4kf55lif911q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.climainterativo.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "368017908513-j9r9om8ohs78fu74ka29hlk29uqt7nn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.climainterativo.app",
+            "certificate_hash": "287789504ed1d569f46b26be6fbb6a1bf54d7eab"
+          }
+        },
+        {
+          "client_id": "368017908513-qu9h4si84kmsc2j0d12ll9ro46lrjlb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.climainterativo.app",
+            "certificate_hash": "892069c34cb3992467e6dd0960443b96fc950253"
+          }
+        },
+        {
+          "client_id": "368017908513-v6snkk04933jcg5hoom8qq54v1gcd7m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.climainterativo.app",
+            "certificate_hash": "aabbccddeeffaabbccddeeffaabbccddeeffaabb"
+          }
+        },
+        {
+          "client_id": "368017908513-2n3h5op0gghqs0dtc8ifnvga52h1nasj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuif8MO5Hol5Q92NzBaVSHDuH5LzycIl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368017908513-2n3h5op0gghqs0dtc8ifnvga52h1nasj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

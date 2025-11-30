@@ -1,0 +1,61 @@
+name: Clima_Interativo
+description: Aplicativo de clima interativo.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # 🌐 HTTP & APIs
+  http: ^1.1.0
+  
+  # 📍 Geolocalização
+  geolocator: ^11.0.1
+  
+  # 🖼️ Imagens
+  image_picker: ^1.0.4
+  
+  # 🔐 Permissões
+  permission_handler: ^11.0.1
+  
+  # 💾 Armazenamento Local
+  shared_preferences: ^2.2.2
+  
+  # 🔥 FIREBASE
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.17.3
+  cloud_firestore: ^4.14.0
+  google_sign_in: ^6.1.5
+  
+  # 🔔 NOTIFICAÇÕES
+  flutter_local_notifications: ^16.3.0
+  timezone: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+  bdd_widget_test: ^1.2.1
+  build_runner: ^2.4.13
+  flutter_driver:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/rewards/
+    - assets/icon/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "#4C68D2"
+  adaptive_icon_foreground: "assets/icon/icon.png"
